@@ -7,6 +7,12 @@ This is the starting point for becoming a contributor - improving code and docs,
 - [Introcution](#introduction)
 - [SOFAStack authors](#sofastack-authors)
 - [How can I help?](#how-can-i-help-)
+- [Resources](#resources)
+
+Other Documents
+
+- [Mailing Lists](MAILING-LISTS.md) -  we use Google groups as mailing lists
+- [Community Roles](ROLES.md) - describes the roles individuals can assume within the SOFAStack community
 
 ## Introduction
 
@@ -22,3 +28,8 @@ SOFAStack is an open source project started by teams from [Ant Financial](https:
 
 See our [community page](https://github.com/alipay/sofastack#community) for ways to get involved in our community.
 
+## Resources
+
+SOFAStack related resources:
+
+- [icons](icons)
