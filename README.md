@@ -4,7 +4,7 @@ Welcome to the SOFAStack community!
 
 This is the starting point for becoming a contributor - improving code and docs, giving talks, etc.
 
-- [Introcution](#introduction)
+- [Introduction](#introduction)
 - [SOFAStack authors](#sofastack-authors)
 - [How can I help?](#how-can-i-help-)
 - [Resources](#resources)
