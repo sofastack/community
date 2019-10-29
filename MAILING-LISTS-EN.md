@@ -1,10 +1,10 @@
-# SOFAStack 邮件列表
+# SOFAStack Mailing Lists
 
-这里是 SOFAStack 邮件列表和论坛地址。您可以根据自己的兴趣加入。如果您是某个项目的用户，请加入该项目的 Users 组。请注意，只可以通过管理员的邀请的方式加入 Developers 组。
+You can see the SOFAStack mailing lists and forum addresses below. You can join groups based on your interest. If you are a user of the projetc, please join the specific users group. Note that joining the Developers group requires an invitation from the administrator.
 
-SOFAStack 是主要邮件组，如果您想获取 SOFAStack 的最新活动和消息，请加入该邮件组。
+SOFAStack is the main group, if you want to get the latest news and activity about SOFAStack, please join this group.
 
-| 组                       | 邮件列表                              | 论坛                                                         |
+| Group                    | Mailing List                          | Forum                                                        |
 | ------------------------ | ------------------------------------- | ------------------------------------------------------------ |
 | SOFAActs Developers      | sofa-acts-dev@googlegroups.com        | https://groups.google.com/d/forum/sofa-acts-dev              |
 | SOFAActs Users           | sofa-acts-users@googlegroups.com      | https://groups.google.com/d/forum/sofa-acts-users            |

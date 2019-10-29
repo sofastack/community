@@ -1,35 +1,37 @@
 # SOFAStack community
 
-Welcome to the SOFAStack community!
+[中文](README.md)|[English](README-EN.md)
 
-This is the starting point for becoming a contributor - improving code and docs, giving talks, etc.
+欢迎来到 SOFAStack 社区！
 
-- [Introduction](#introduction)
-- [SOFAStack authors](#sofastack-authors)
-- [How can I help?](#how-can-i-help-)
-- [Resources](#resources)
+这里是您成为社区 Contributor 的起点——通过提交代码、改善文档、发表博客和 topic 等。
 
-Other Documents
+- [简介](#introduction)
+- [SOFAStack 作者](#sofastack作者)
+- [获取帮助](#获取帮助)
+- [资源](#资源)
 
-- [Mailing Lists](MAILING-LISTS.md) -  we use Google groups as mailing lists
-- [Community Roles](ROLES.md) - describes the roles individuals can assume within the SOFAStack community
+其他文档
 
-## Introduction
+- [邮件列表](MAILING-LISTS.md)：我们使用 Google Group 作为邮件列表。
+- [社区角色](ROLES.md)：描述 SOFAStack 社区成员的角色划分。
 
-**SOFAStack™ (Scalable Open Financial Architecture Stack)** is a collection of cloud native middleware components, which are designed to build distributed systems with high performance and reliability and have been fully validated by mission-critical financial business scenarios.
+## 简介
 
-Visit [sofastack.tech](https://www.sofastack.tech) for more information about using SOFAStack.
+SOFAStack™（Scalable Open Financial Architecture Stack）是一套用于快速构建金融级分布式架构的中间件，也是在金融场景里锤炼出来的最佳实践。
 
-## SOFAStack authors
+获取关于 SOFAStack 的更多信息，请访问 [sofastack.tech](https://www.sofastack.tech)。
 
-SOFAStack is an open source project started by teams from [Ant Financial](https://www.antfin.com) with an active development community. 
+## SOFAStack作者
 
-## How can I help ?
+SOFAStack 是由[蚂蚁金服](https://www.antfin.com)发起的社区化运作的开源项目。
 
-See our [community page](https://github.com/alipay/sofastack#community) for ways to get involved in our community.
+## 获取帮助
 
-## Resources
+参与社区，请访问[Awesome SOFA 页面](https://www.sofastack.tech/awesome/)。
 
-SOFAStack related resources:
+## 资源
 
-- [icons](icons)
+SOFAStack 相关资源：
+
+- [图标](icons)

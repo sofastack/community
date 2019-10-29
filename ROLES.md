@@ -1,74 +1,74 @@
-# SOFAStack Community Roles
+# SOFAStack 社区角色
 
-This document describes the set of roles individuals may have within the SOFAStack community, the requirements of each role, and the privileges that each role grants.
+本文档描述 SOFAStack 社区中成员身份的角色，对每种角色的要求及权限。
 
-- [Role summary](#role-summary)
+- [角色摘要](#角色摘要)
 - [Contributor](#contributor)
 - [Committer](#committer)
 - [PMC](#pmc)
 
-## Role summary
+## 角色摘要
 
-Here is the set of roles we use within the SOFAStack community, the general responsibilities expected by individuals in each role, the requirements necessary to join or stay in a given role, and the concrete manifestation of the role in terms of permissions and privileges.
+这是 SOFAStack 社区的角色划分，描述了每种角色的职责，成为某种角色并保持该角色的要求，以及相应角色的权限。
 
-Our community has the following three roles in accordance with Apache's specifications.
+我们社区参照 Apache 规范有划分为以下三种角色：
 
 - Contributor
 - Committer
 - PMC
 
-The requirements, responsibilities, and privileges of the three roles are described below.
+下面描述了每种角色的要求、职责和权限。
 
 ## Contributor
 
-**Requirements**
+**要求**
 
-Successfully submitting a PR and merged in any formal project of  SOFAStack.
+在 SOFAStack 的任何一个正式项目中成功提交一个 PR 并合并。
 
-**Responsibilities**
+**职责**
 
-Positively respond to the Issue or PR assigned to you.
+积极响应指派给您的 Issue 或 PR。
 
-**Privileges**
+**权限**
 
-Join the SOFAStack GitHub organization and become a member of the SOFAStack open source community.
+加入 SOFAStack GItHub 组织，成为 SOFAStack 开源社区的一员。
 
 ## Committer
 
-**Requirements**
+**要求**
 
-New Committer is recommended by existing PMC and produced by 2/3 PMC vote passed with the following single or multiple achievements (including but not limited to):
-- Become a member of the community for more than 3 months
-- More than 10 PMC-approved commit merge records
-- Complete some larger features
-- Fix some important bugs
+新的 Committer 由已有的 PMC 推荐，并通过 2/3 以上投票通过，Commiter 必须满足以下一个或多个条件：
+- 成为社区成员时间超过三个月
+- 超过 10 个 PMC approve 的 PR
+- 完成重大功能
+- 修复严重 Bug
 
-**Responsibilities**
+**职责**
 
-- Community advisory support
-- Respond to the Issue or PR assigned to them
-- Voting rights of major functional decision-making discussion 
-- Review community PR
+- 社区咨询支持
+- 积极响应指派给您的 Issue 或 PR。
+- 对于社区重大决定的投票权
+- Review 社区的 PR
 
-**Privileges**
+**权限**
 
-- Pull Request review permission
-- Pull Request approve permission
+- Pull Request review 权限
+- Pull Request approve 权限
 
 ## PMC
 
-**Requirements**
+**要求**
 
-- Existing PMC nominations and 2/3 votes passed
-- Long-term focus on product development and participation in community discussions for at least one year
+- 超过社区 2/3 PMC 投票通过
+- 产期关注项目发展并参与社区讨论至少一年时间
 
-**Responsibilities**
+**职责**
 
-- Actively participate in community discussions and key functional decisions and provide guidance
-- Responsible for ensuring that community activities in open source projects work well
+- 积极参与社区讨论，对社区重大决策给予指导
+- 负责保证开源项目的社区活动都能运转良好
 
-**Privileges**
+**权限**
 
-- Pull Request review  permission
-- Pull Request approve permission
-- Merge permission
+- Pull Request review  权限
+- Pull Request approve 权限
+- Merge 权限
